@@ -13,6 +13,7 @@ A continuación se listan los proyectos activos dentro del ecosistema EthicAI:
 | Proyecto | Emoji | Resumen | Estado | Link |
 | :--- | :---: | :--- | :---: | :--- |
 | **Singer's Voice** | 🐾 | RAG basado en *Liberación Animal* de Peter Singer con UI premium de bosque. | ✅ | [Repo](https://github.com/jlaracena/ethicAI-singers-voice) |
+| **Speciesism Awareness** | 🌿 | Tutor Socrático sobre especismo con interfaz Zen y máquina de estados. | ✅ | [Repo](https://github.com/jlaracena/ethicAI-speciesism-awareness) |
 | **Próximamente...** | 🌳 | Próximo proyecto relacionado con ecología y sostenibilidad. | 🏗️ | - |
 
 ---
