@@ -1,8 +1,10 @@
 # EthicAI Hub 🌿🐾
 
-Bienvenidos al ecosistema **EthicAI**. Este repositorio centraliza y organiza los proyectos dedicados a la ética animal, la ecología y la protección de los seres sintientes, todos impulsados por inteligencia artificial de vanguardia.
+Bienvenidos al ecosistema **EthicAI**. Este repositorio centraliza y organiza los proyectos dedicados a la ética animal, la ecología y la protección de los seres sintientes, todos ellos impulsados por inteligencia artificial de vanguardia.
 
-El objetivo de este "Hub" es servir como índice y portafolio de las herramientas que estamos construyendo para democratizar el pensamiento ético y facilitar la acción en favor de la naturaleza.
+El objetivo de este "Hub" es servir como índice y portafolio de las herramientas que estamos construyendo para democratizar el pensamiento ético y facilitar la acción a favor de la naturaleza.
+
+Visión: "EthicAI existe para que ningún ser sintiente vuelva a enfrentar el sufrimiento que los humanos podemos evitar, porque la inocencia de un animal nunca debería ser su mayor vulnerabilidad."
 
 ---
 
